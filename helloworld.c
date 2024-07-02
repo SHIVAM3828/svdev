@@ -1,5 +1,8 @@
 #include<stdio.h>
-int main(){
+int main()
+{
+    printf("checked the change");
     printf("hello i am new to git");
+
     return 0;
 }
